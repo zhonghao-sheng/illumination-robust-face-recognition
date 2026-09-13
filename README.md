@@ -1,6 +1,6 @@
 # Illumination-Robust Face Recognition
 
-How does model complexity affect face identification when the lighting direction changes? This project compares a linear baseline, a compact convolutional network, and EfficientNet-B0 using lighting groups that are held out from training.
+How does model complexity affect face identification when the lighting direction changes? Developed in 2025 by a three-person team, this project compares a linear baseline, a compact convolutional network, and EfficientNet-B0 using lighting groups that are held out from training.
 
 The aim is to demonstrate a careful machine-learning workflow: define a meaningful test shift, fit preprocessing and models within training folds, choose hyperparameters on inner folds, and report limitations. The goal is **not** to maximize one headline accuracy number.
 
