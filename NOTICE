@@ -1,0 +1,9 @@
+Data provenance
+
+Face images are not included in this repository. The experiment expects a
+separately obtained cropped Extended Yale B image set. See data/README.md
+for the source page, expected layout, and usage guidance.
+
+The summary metrics in README.md are from the final ten-fold study. The
+original image snapshot and per-fold predictions are not bundled with this
+code.

@@ -1,0 +1,142 @@
+[
+  {
+    "fold": 0,
+    "test_bin": 0,
+    "train_size": 14601,
+    "test_size": 1511,
+    "azimuth_range": [
+      35,
+      130
+    ],
+    "elevation_range": [
+      -20,
+      20
+    ]
+  },
+  {
+    "fold": 1,
+    "test_bin": 1,
+    "train_size": 14600,
+    "test_size": 1512,
+    "azimuth_range": [
+      -130,
+      -85
+    ],
+    "elevation_range": [
+      -20,
+      40
+    ]
+  },
+  {
+    "fold": 2,
+    "test_bin": 2,
+    "train_size": 14600,
+    "test_size": 1512,
+    "azimuth_range": [
+      35,
+      110
+    ],
+    "elevation_range": [
+      20,
+      65
+    ]
+  },
+  {
+    "fold": 3,
+    "test_bin": 3,
+    "train_size": 14350,
+    "test_size": 1762,
+    "azimuth_range": [
+      -110,
+      35
+    ],
+    "elevation_range": [
+      40,
+      90
+    ]
+  },
+  {
+    "fold": 4,
+    "test_bin": 4,
+    "train_size": 14600,
+    "test_size": 1512,
+    "azimuth_range": [
+      -95,
+      -35
+    ],
+    "elevation_range": [
+      -40,
+      0
+    ]
+  },
+  {
+    "fold": 5,
+    "test_bin": 5,
+    "train_size": 14600,
+    "test_size": 1512,
+    "azimuth_range": [
+      50,
+      85
+    ],
+    "elevation_range": [
+      -40,
+      0
+    ]
+  },
+  {
+    "fold": 6,
+    "test_bin": 6,
+    "train_size": 14601,
+    "test_size": 1511,
+    "azimuth_range": [
+      -70,
+      0
+    ],
+    "elevation_range": [
+      0,
+      20
+    ]
+  },
+  {
+    "fold": 7,
+    "test_bin": 7,
+    "train_size": 14352,
+    "test_size": 1760,
+    "azimuth_range": [
+      -20,
+      35
+    ],
+    "elevation_range": [
+      -40,
+      -20
+    ]
+  },
+  {
+    "fold": 8,
+    "test_bin": 8,
+    "train_size": 14355,
+    "test_size": 1757,
+    "azimuth_range": [
+      5,
+      25
+    ],
+    "elevation_range": [
+      -10,
+      20
+    ]
+  },
+  {
+    "fold": 9,
+    "test_bin": 9,
+    "train_size": 14349,
+    "test_size": 1763,
+    "azimuth_range": [
+      -20,
+      0
+    ],
+    "elevation_range": [
+      -10,
+      20
+    ]
+  }
+]
